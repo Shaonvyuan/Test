@@ -1,1 +1,11 @@
+.class
 /.idea
+/bin
+/logs
+/reports
+/resources/environment.properties
+/target
+/test-output
+/debug.log
+/emailable-report.html
+/xmlresult-report.xml
